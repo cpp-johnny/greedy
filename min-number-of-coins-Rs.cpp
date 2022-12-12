@@ -35,7 +35,7 @@ void findMin(int V)
 int main()
 {
 	int n = 93;
-	cout << "Following is minimal number of change for " << n << " is ";
+	cout << "Following is minimum number of change for " << n << " is ";
 	findMin(n);
 	return 0;
 }
